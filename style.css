@@ -68,6 +68,7 @@ nav ul li a {
 
 .pricing-table {background-color: #1ea358;
     display: flex;
+       
     justify-content: space-between;
     text-align: center;
 }
@@ -80,6 +81,17 @@ nav ul li a {
 
 .plan h3 {
     margin-top: 0;
+    
+}
+.blue{
+    color: aqua;
+}
+.roxo{
+    color: blue;
+    
+}
+.prata{
+    color: blanchedalmond;
 }
 
 
@@ -88,10 +100,10 @@ nav ul li a {
     color: #333;
 }
 
-.btn { 
+.btn {
     display: inline-block;
     padding: 10px 20px;
-    background: #333;
+    background: #85ca9e;
     color: #fff;
     text-decoration: none;
     margin-top: 20px;
