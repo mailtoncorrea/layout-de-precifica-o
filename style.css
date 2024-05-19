@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #d6d2d2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+    display: inline-block;
+}
+.login{
+    
+    
+}
+.select{
+    background-color: #1ea358;
+      margin: 0;
+       padding: 0;
+       display: inline-block;
+       font-size: 10px;
+    }
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    float: right;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #1ea358;
+    text-decoration: none;
+}
+
+#intro {
+    text-align: center;
+    padding: 50px 0;
+}
+
+#intro h2 {
+    margin-bottom: 20px;
+}
+
+#pricing {;
+    padding: 50px 0;
+}
+
+.pricing-table {background-color: #1ea358;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.plan {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 30%;
+}
+
+.plan h3 {
+    margin-top: 0;
+}
+
+
+.price {
+    font-size: 24px;
+    color: #333;
+}
+
+.btn { 
+    display: inline-block;
+    padding: 10px 20px;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+
+
+footer {
+    background: #333;
+    color: #1ea358;
+    text-align: center;
+    padding: 10px 0;}
